@@ -1,1 +1,1 @@
-# Mini-Mastermind
+# Mini Mastermind
