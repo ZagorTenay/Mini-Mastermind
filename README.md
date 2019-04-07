@@ -16,67 +16,67 @@ Game Playing Rules
 Sample Game
 
 
->Round: 1
->Game:  1
->Computer Score: 0
->Player Score: 0
+Round: 1
+Game:  1
+Computer Score: 0
+Player Score: 0
 
->Your Guess (1): 21
->My Feedback: +1, -0
+Your Guess (1): 21
+My Feedback: +1, -0
 
->Your Guess (2): 23
->My Feedback: +2, -0
+Your Guess (2): 23
+My Feedback: +2, -0
 
->You win.
-
---------------------
-
-
->Round: 1
->Game:  2
->Computer Score: 2
->Player Score: 0
-
->My Guess (1): 12
->Your Feedback (+): 0
->Your Feedback (-): 2
-
->My Guess (2): 21
->Your Feedback (+): 2
->Your Feedback (-): 0
-
->I win.
+You win.
 
 --------------------
 
 
->Round: 2
->Game:  1
->Computer Score: 2
->Player Score: 2
+Round: 1
+Game:  2
+Computer Score: 2
+Player Score: 0
 
->Your Guess (1): 32
->My Feedback: +0, -1
+My Guess (1): 12
+Your Feedback (+): 0
+Your Feedback (-): 2
 
->Your Guess (2): 31
->My Feedback: +1, -0
+My Guess (2): 21
+Your Feedback (+): 2
+Your Feedback (-): 0
 
->Your Guess (3): 21
->My Feedback: +2, -0
-
->You win.
+I win.
 
 --------------------
 
 
->Round: 2
->Game:  2
->Computer Score: 5
->Player Score: 2
+Round: 2
+Game:  1
+Computer Score: 2
+Player Score: 2
 
->My Guess (1): 23
->Your Feedback (+): 
+Your Guess (1): 32
+My Feedback: +0, -1
 
->...
+Your Guess (2): 31
+My Feedback: +1, -0
+
+Your Guess (3): 21
+My Feedback: +2, -0
+
+You win.
+
+--------------------
+
+
+Round: 2
+Game:  2
+Computer Score: 5
+Player Score: 2
+
+My Guess (1): 23
+Your Feedback (+): 
+
+...
 
 
